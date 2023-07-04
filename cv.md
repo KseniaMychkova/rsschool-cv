@@ -27,5 +27,5 @@ I am 32 years old and currently on parental leave. I have worked as a lawyer for
     - «JavaScript/Front-end. Stage 0» (in process)
 
     ## Language
-        + Russian - native speaker
-        + English - A1
+    - Russian - native speaker
+    - English - A1
